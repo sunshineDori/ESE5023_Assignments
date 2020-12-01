@@ -1,11 +1,11 @@
 #Author:SUNTAOTAO
-#Date:20201122
+#Date:20201201
 #I got inspired by reading section10 https://zhu-group.github.io/ese5023/Section_10.html
 #https://zhuanlan.zhihu.com/p/280968987
 #https://cengel.github.io/rspatial/4_Mapping.nb.html
 
 setwd("C:/Workspace/ESE5023_Assignments/Assignment 05")
-library(tmap)
+
 library("sp")
 library("raster")
 library("sf")
